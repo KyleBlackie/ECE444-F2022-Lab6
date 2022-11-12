@@ -12,6 +12,13 @@ Test driven development allows us to place a higher degree of importance on test
 Some disadvantages of TDD include that TDD can be a slow process that adds time to the development cycle, TDD can lead to writing too many tests at once or hyperfocusing on the tests rather than the code itself. The tests created during TDD also need to be maintained which takes up developer time. The development style of TDD can also be challenging/unintuitive for a lot of developers new to it.
 
 Summary of Pros:
-
+- Tests are treated with more importance
+- Better test coverage in applications
+- Higher quality tests
+- Works well with Agile methodology
 
 Summary of Cons:
+- Slows down development cycle
+- Hyperfixation on writing tests
+- Tests created by TDD need to be maintained
+- Learning TDD can be difficult or unintuitive for some developers
